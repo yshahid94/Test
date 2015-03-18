@@ -14,6 +14,7 @@ import javax.swing.JPanel;
 public class Life extends JPanel implements MouseListener, MouseMotionListener{
 	/**
 	 * Hi
+	 * Testing file replacing
 	 */
 	private static final long serialVersionUID = 1L;
 
