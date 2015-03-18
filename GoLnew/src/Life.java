@@ -13,7 +13,7 @@ import javax.swing.JPanel;
 
 public class Life extends JPanel implements MouseListener, MouseMotionListener{
 	/**
-	 * 
+	 * Hi
 	 */
 	private static final long serialVersionUID = 1L;
 
